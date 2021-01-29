@@ -7,18 +7,12 @@ I currently freelance but am interested in joining a team full-time writing Rust
 [![](https://img.shields.io/badge/Email-elliotekj%40mailbox.org-blue)](mailto:elliotekj@mailbox.org)
 [![](https://img.shields.io/badge/Blog-elliotekj.com-blue)](https://elliotekj.com)
 
+<!--
 ---
 
-#### Running metrics (7 days)
+#### Running metrics (7 days) -->
 
 <!--START_SECTION:waka-->
-```text
-Elixir       16 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.62 % 
-Other        3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-HTML         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-JavaScript   1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-CSS          1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-```
 <!--END_SECTION:waka-->
 
 <!--
