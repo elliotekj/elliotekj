@@ -9,7 +9,7 @@ I currently freelance but am interested in joining a team full-time writing Rust
 
 ---
 
-#### 7 day metrics
+#### Running metrics (7 days)
 
 <!--START_SECTION:waka-->
 ```text
