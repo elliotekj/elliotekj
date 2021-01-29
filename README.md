@@ -5,7 +5,7 @@ I’m a product designer turned software developer keen on building, problem sol
 I currently freelance but am interested in joining a team full-time writing Rust and/or Elixir. If your team is hiring, please get in touch!
 
 [![](https://img.shields.io/badge/Email-elliotekj%40mailbox.org-blue)](mailto:elliotekj@mailbox.org)
-[![](https://img.shields.io/badge/Blog-elliotekj.com-blue)](elliotekj.com)
+[![](https://img.shields.io/badge/Blog-elliotekj.com-blue)](https://elliotekj.com)
 
 ---
 
