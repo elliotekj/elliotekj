@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Elliot 👋
+
+I’m a product designer turned software developer keen on building, problem solving, performance and databases. My interest in recent years has been in the Swift and Rust ecosystems. I still mostly write Swift professionally (and would love the opportunity to write Rust professionally), but I also believe the wonderful Elixir has a very bright future and am focussing a lot on that at the moment too.
+
+I currently freelance but am interested in joining a team full-time writing Rust and/or Elixir. If your team is hiring, please get in touch!
+
+[![](https://img.shields.io/badge/Email-elliotekj%40mailbox.org-blue)](mailto:elliotekj@mailbox.org)
+[![](https://img.shields.io/badge/Blog-elliotekj.com-blue)](elliotekj.com)
+
+---
+
+#### 7 day metrics
 
 <!--START_SECTION:waka-->
 ```text
