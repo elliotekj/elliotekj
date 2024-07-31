@@ -8,3 +8,128 @@ With over a decade of experience shipping everything from MVPs to major versions
 
 👀 [NineNines.io](https://ninenines.io) Observe your Elixir applications  
 🧪 [CrabsAndAlchemy.com](https://crabsandalchemy.com) Let's build something together
+
+#### Open Source Work
+
+<table>
+  <tr>
+    <th>Data Structures & Algorithms</th>
+    <th>Data Processing & Encoding</th>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/doubly_linked_list"><code>doubly_linked_list</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>A fast, amortised O(log n) doubly linked list implementation.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/off_broadway_memory"><code>off_broadway_memory</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>A Broadway producer for an in-memory buffer.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/leven"><code>leven</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>Compute the Levenshtein distance between two strings.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/statsd_metric"><code>statsd_metric</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>A fast StatsD / DogStatsD metric encoder and single-pass parser.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/bm25"><code>bm25</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>BM25 is a ranking algorithm for search.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/atomic_writes"><code>atomic_writes</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>LWW, FWW & serialized atomic file writes in Elixir.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/DeltaE"><code>DeltaE</code></a></p>
+      <img src="https://img.shields.io/badge/lang-rust-orange" />
+      <p>A pure-Rust implementation of the CIEDE2000 algorithm.</p>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/perlin"><code>perlin</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>Ken Perlin's improved Perlin noise algorithm in Elixir.</p>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Search & Indexing</th>
+    <th>Graphics & Visualization</th>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/search"><code>search</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>⚡ Fast full-text search for Elixir.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/distil"><code>distil</code></a></p>
+      <img src="https://img.shields.io/badge/lang-rust-orange" />
+      <p>An image derived colour palette generator.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/bm25"><code>bm25</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>BM25 is a ranking algorithm for search.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/perlin"><code>perlin</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>Ken Perlin's improved Perlin noise algorithm in Elixir.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Dev Tools</th>
+    <th>Web</th>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/vscode-mix-format"><code>vscode-mix-format</code></a></p>
+      <img src="https://img.shields.io/badge/lang-javascript-yellow" />
+      <p>A mix format extension that supports monorepos.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/thea"><code>thea</code></a></p>
+      <img src="https://img.shields.io/badge/lang-rust-orange" />
+      <p>An in-memory website generator and server.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/prr-mode.el"><code>prr-mode.el</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elisp-magenta" />
+      <p>Major mode for editing .prr files in Emacs.</p>
+    </td>
+    <td>
+      <p><a href="https://github.com/elliotekj/orbit"><code>orbit</code></a></p>
+      <img src="https://img.shields.io/badge/lang-ruby-red" />
+      <p>A MetaWeblog API Server for Hugo.</p>
+    </td>
+  </tr>
+</table>
+
+[📦 View older projects...](https://elliotekj.com/opensource)
