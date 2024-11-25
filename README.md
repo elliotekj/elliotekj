@@ -8,7 +8,7 @@ With over a decade in the game, I've shipped everything from MVPs to major versi
 
 👀 [NineNines.io](https://ninenines.io) Observe your Elixir applications  
 🚗 [Reg Delete](https://apps.apple.com/gb/app/reg-delete/id6737629797?utm_source=github) AI powered license plate obfuscation    
-🧪 [CrabsAndAlchemy.com](https://crabsandalchemy.com) Let's build something together
+🧪 [Crabs & Alchemy](https://crabsandalchemy.com) Let's build something together
 
 #### Open Source Work
 
