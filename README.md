@@ -7,6 +7,7 @@
 With over a decade in the game, I've shipped everything from MVPs to major versions of multi-million user applications. From architecting multi-node clusters to building in-memory, real-time solutions, I’m focused on performance, security, and pushing the boundaries of what Elixir and Rust can do together. Frequent open-source contributor.
 
 👀 [NineNines.io](https://ninenines.io) Observe your Elixir applications  
+🚗 [Reg Delete](https://apps.apple.com/gb/app/reg-delete/id6737629797) AI powered license plate obfuscation    
 🧪 [CrabsAndAlchemy.com](https://crabsandalchemy.com) Let's build something together
 
 #### Open Source Work
