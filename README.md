@@ -131,6 +131,14 @@ With over a decade in the game, I've shipped everything from MVPs to major versi
       <p>A MetaWeblog API Server for Hugo.</p>
     </td>
   </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p><a href="[https://github.com/elliotekj/vscode-mix-format](https://github.com/elliotekj/clean_unroll)"><code>clean_unroll</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elixir-purple" />
+      <p>Unroll URLs and remove their tracking parameters.</p>
+    </td>
+  </tr>
 </table>
 
 [📦 View older projects...](https://elliotekj.com/opensource)
