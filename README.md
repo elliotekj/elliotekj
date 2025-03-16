@@ -121,9 +121,9 @@ With over a decade in the game, I've shipped everything from MVPs to major versi
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/elliotekj/vscode-mix-format"><code>vscode-mix-format</code></a></p>
-      <img src="https://img.shields.io/badge/lang-javascript-yellow" />
-      <p>A mix format extension that supports monorepos.</p>
+      <p><a href="https://github.com/elliotekj/tmux_drawer"><code>tmux_drawer</code></a></p>
+      <img src="https://img.shields.io/badge/lang-sh-lime" />
+      <p>📥 A toggleable drawer for Tmux windows</p>
     </td>
     <td>
       <p><a href="https://github.com/elliotekj/orbit"><code>orbit</code></a></p>
@@ -133,15 +133,23 @@ With over a decade in the game, I've shipped everything from MVPs to major versi
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/elliotekj/prr-mode.el"><code>prr-mode.el</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elisp-magenta" />
-      <p>Major mode for editing .prr files in Emacs.</p>
+      <p><a href="https://github.com/elliotekj/vscode-mix-format"><code>vscode-mix-format</code></a></p>
+      <img src="https://img.shields.io/badge/lang-javascript-yellow" />
+      <p>A mix format extension that supports monorepos.</p>
     </td>
     <td>
       <p><a href="https://github.com/elliotekj/clean_unroll"><code>clean_unroll</code></a></p>
       <img src="https://img.shields.io/badge/lang-elixir-purple" />
       <p>Unroll URLs and remove their tracking parameters.</p>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/prr-mode.el"><code>prr-mode.el</code></a></p>
+      <img src="https://img.shields.io/badge/lang-elisp-magenta" />
+      <p>Major mode for editing .prr files in Emacs.</p>
+    </td>
+    <td></td>
   </tr>
 </table>
 
