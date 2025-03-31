@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Blog-elliotekj.com-blue)](https://elliotekj.com)
 [![](https://img.shields.io/badge/Resume-Send%20Request-blue)](mailto:elliot@elliotekj.com?subject=Resume%20Request&body=Hi%2C%20%0A%0AI%20work%20for%20%5Bcompany%5D%20and%20we're%20hiring.%20Please%20could%20you%20forward%20me%20your%20resume.%0A%0ACheers%2C%0A%5Bname%5D)
 
-Senior Software Engineer interested in finance and applied AI. Currently building banking APIs @ [Teller](https://teller.io) in Elixir. Previously designed distributed orderbooks & shipped real-time trading APIs. Frequent open-source contributor.
+I'm a Senior Software Engineer interested in finance and applied AI. Currently building banking APIs @ [Teller](https://teller.io) in Elixir. Previously designed distributed orderbooks & shipped real-time trading APIs. Frequent open-source contributor.
 
 🚗 [Reg Delete](https://apps.apple.com/gb/app/reg-delete/id6737629797?utm_source=github) AI powered license plate obfuscation    
 👀 [NineNines.io](https://ninenines.io) Observe your Elixir applications    
