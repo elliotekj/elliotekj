@@ -6,6 +6,7 @@
 
 I'm a Senior Software Engineer interested in finance and applied AI. Currently building banking APIs @ [Teller](https://teller.io) in Elixir. Previously designed distributed orderbooks & shipped real-time trading APIs. Frequent open-source contributor.
 
+🎭 [RPC Mock](https://rpcmock.com) Instant mock RPC endpoints for developers    
 🚗 [Reg Delete](https://apps.apple.com/gb/app/reg-delete/id6737629797?utm_source=github) AI powered license plate obfuscation    
 👀 [NineNines.io](https://ninenines.io) Observe your Elixir applications    
 
