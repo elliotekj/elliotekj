@@ -121,7 +121,7 @@ I'm a Senior Software Engineer interested in finance and applied AI. Currently b
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/elliotekj/claude-commit.nvim"><code>fpf</code></a></p>
+      <p><a href="https://github.com/elliotekj/fpf"><code>fpf</code></a></p>
       <img src="https://img.shields.io/badge/lang-go-22D3EF" />
       <p>Fuzzy prompt finder for Claude Code</p>
     </td>
