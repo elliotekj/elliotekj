@@ -109,9 +109,9 @@ I'm a Senior Software Engineer interested in finance and applied AI. Currently b
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/elliotekj/claude-commit.nvim"><code>claude-commit.nvim</code></a></p>
+      <p><a href="https://github.com/elliotekj/dotfiles"><code>dotfiles</code></a></p>
       <img src="https://img.shields.io/badge/lang-lua-blue" />
-      <p>🤖 AI-powered commit message suggestions using Claude Code</p>
+      <p>My dotfiles.</p>
     </td>
     <td>
       <p><a href="https://github.com/elliotekj/thea"><code>thea</code></a></p>
@@ -121,9 +121,9 @@ I'm a Senior Software Engineer interested in finance and applied AI. Currently b
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/elliotekj/dotfiles"><code>dotfiles</code></a></p>
-      <img src="https://img.shields.io/badge/lang-lua-blue" />
-      <p>My dotfiles.</p>
+      <p><a href="https://github.com/elliotekj/claude-commit.nvim"><code>fpf</code></a></p>
+      <img src="https://img.shields.io/badge/lang-go-22D3EF" />
+      <p>Fuzzy prompt finder for Claude Code</p>
     </td>
     <td>
       <p><a href="https://github.com/elliotekj/orbit"><code>orbit</code></a></p>
@@ -133,15 +133,23 @@ I'm a Senior Software Engineer interested in finance and applied AI. Currently b
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/elliotekj/tmux_drawer"><code>tmux_drawer</code></a></p>
-      <img src="https://img.shields.io/badge/lang-sh-lime" />
-      <p>📥 A toggleable drawer for Tmux windows</p>
+      <p><a href="https://github.com/elliotekj/claude-commit.nvim"><code>claude-commit.nvim</code></a></p>
+      <img src="https://img.shields.io/badge/lang-lua-blue" />
+      <p>🤖 AI-powered commit message suggestions using Claude Code</p>
     </td>
     <td>
       <p><a href="https://github.com/elliotekj/clean_unroll"><code>clean_unroll</code></a></p>
       <img src="https://img.shields.io/badge/lang-elixir-purple" />
       <p>Unroll URLs and remove their tracking parameters.</p>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/elliotekj/tmux_drawer"><code>tmux_drawer</code></a></p>
+      <img src="https://img.shields.io/badge/lang-sh-lime" />
+      <p>📥 A toggleable drawer for Tmux windows</p>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>
