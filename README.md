@@ -1,9 +1,5 @@
 ### Hi, I'm Elliot 👋
 
-[![](https://img.shields.io/badge/Email-elliot%40elliotekj.com-blue)](mailto:elliot@elliotekj.com)
-[![](https://img.shields.io/badge/Blog-elliotekj.com-blue)](https://elliotekj.com)
-[![](https://img.shields.io/badge/Resume-Send%20Request-blue)](mailto:elliot@elliotekj.com?subject=Resume%20Request&body=Hi%2C%20%0A%0AI%20work%20for%20%5Bcompany%5D%20and%20we're%20hiring.%20Please%20could%20you%20forward%20me%20your%20resume.%0A%0ACheers%2C%0A%5Bname%5D)
-
 I’m a software engineer with over a decade of experience designing and scaling production systems across both startups and regulated, high-stakes domains. I’ve delivered everything from rapid MVPs to applications serving millions of users, and from distributed clusters to real-time, in-memory services. **I thrive in fast-paced, technically demanding environments where reliability and performance are non-negotiable.**
 
 [Open Source Work](https://elliotekj.com/opensource) | [Projects](https://elliotekj.com/projects) | [About](https://elliotekj.com/about) | [Hire Me](mailto:elliot@elliotkj.com)
