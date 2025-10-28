@@ -1,6 +1,6 @@
 ### Hi, I'm Elliot 👋
 
-I’m a software engineer with over a decade of experience designing and scaling production systems across both startups and regulated, high-stakes domains. I’ve delivered everything from rapid MVPs to applications serving millions of users, and from distributed clusters to real-time, in-memory services. **I thrive in fast-paced, technically demanding environments where reliability and performance are non-negotiable.**
+I'm a senior software engineer at ▉▉▉▉▉ with over a decade of experience building and scaling robust applications in regulated, high-stakes domains. From MVPs to multi-million user platforms, I specialize in high-performance distributed systems primarily in Elixir, thriving in technically demanding environments that push the boundaries of what's possible.
 
 [Open Source Work](https://elliotekj.com/opensource) | [Projects](https://elliotekj.com/projects) | [About](https://elliotekj.com/about) | [Hire Me](mailto:elliot@elliotkj.com)
 
