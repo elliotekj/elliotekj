@@ -17,7 +17,7 @@ I'm a senior software engineer at ▉▉▉▉▉ with over a decade of experien
 
 Algorithms & Data: [`bm25`](https://github.com/elliotekj/bm25) · [`leven`](https://github.com/elliotekj/leven) · [`perlin`](https://github.com/elliotekj/perlin) · [`DeltaE`](https://github.com/elliotekj/DeltaE) · [`statsd_metric`](https://github.com/elliotekj/statsd_metric) · [`atomic_writes`](https://github.com/elliotekj/atomic_writes)
 
-Dev Tools: [`fpf`](https://github.com/elliotekj/fpf) · [`dotfiles`](https://github.com/elliotekj/dotfiles) · [`claude-commit.nvim`](https://github.com/elliotekj/claude-commit.nvim) · [`tmux_drawer`](https://github.com/elliotekj/tmux_drawer) · [`vscode-mix-format`](https://github.com/elliotekj/vscode-mix-format) · [`prr-mode.el`](https://github.com/elliotekj/prr-mode.el)
+Dev Tools: [`murder`](https://github.com/elliotekj/murder) · [`fpf`](https://github.com/elliotekj/fpf) · [`dotfiles`](https://github.com/elliotekj/dotfiles) · [`claude-commit.nvim`](https://github.com/elliotekj/claude-commit.nvim) · [`tmux_drawer`](https://github.com/elliotekj/tmux_drawer) · [`vscode-mix-format`](https://github.com/elliotekj/vscode-mix-format) · [`prr-mode.el`](https://github.com/elliotekj/prr-mode.el)
 
 Graphics & Web: [`distil`](https://github.com/elliotekj/distil) · [`thea`](https://github.com/elliotekj/thea) · [`orbit`](https://github.com/elliotekj/orbit) · [`clean_unroll`](https://github.com/elliotekj/clean_unroll)
 
