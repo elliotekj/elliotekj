@@ -8,10 +8,10 @@ I'm a senior software engineer at ▉▉▉▉▉ with over a decade of experien
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| [`search`](https://github.com/elliotekj/search) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | Fast full-text search for Elixir |
-| [`homie`](https://github.com/elliotekj/homie) | ![Rust](https://img.shields.io/badge/lang-rust-orange) | Dotfiles symlink orchestrator with templates |
-| [`doubly_linked_list`](https://github.com/elliotekj/doubly_linked_list) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | Amortised O(log n) doubly linked list |
-| [`off_broadway_memory`](https://github.com/elliotekj/off_broadway_memory) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | Broadway producer for in-memory buffer |
+| [`search`](https://github.com/elliotekj/search) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | ⚡ Fast full-text search for Elixir |
+| [`homie`](https://github.com/elliotekj/homie) | ![Rust](https://img.shields.io/badge/lang-rust-orange) | 🎻 Dotfiles symlink orchestrator |
+| [`doubly_linked_list`](https://github.com/elliotekj/doubly_linked_list) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | ⛓️ Amortised O(log n) doubly linked list |
+| [`off_broadway_memory`](https://github.com/elliotekj/off_broadway_memory) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | 🎭 Broadway producer for in-memory buffer |
 
 #### More Open Source Work
 
