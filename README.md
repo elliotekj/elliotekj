@@ -4,163 +4,23 @@ I'm a senior software engineer at ▉▉▉▉▉ with over a decade of experien
 
 [Open Source Work](https://elliotekj.com/opensource) | [About](https://elliotekj.com/about) | [Hire Me](mailto:elliot@elliotkj.com)
 
-#### Open Source Work
+#### Featured Open Source ⭐
 
-<table>
-  <tr>
-    <th>Data Structures & Algorithms</th>
-    <th>Data Processing & Encoding</th>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/doubly_linked_list"><code>doubly_linked_list</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>A fast, amortised O(log n) doubly linked list implementation.</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/off_broadway_memory"><code>off_broadway_memory</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>A Broadway producer for an in-memory buffer.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/leven"><code>leven</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>Compute the Levenshtein distance between two strings.</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/statsd_metric"><code>statsd_metric</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>A fast StatsD / DogStatsD metric encoder and single-pass parser.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/bm25"><code>bm25</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>BM25 is a ranking algorithm for search.</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/atomic_writes"><code>atomic_writes</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>LWW, FWW & serialized atomic file writes in Elixir.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/DeltaE"><code>DeltaE</code></a></p>
-      <img src="https://img.shields.io/badge/lang-rust-orange" />
-      <p>A pure-Rust implementation of the CIEDE2000 algorithm.</p>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/perlin"><code>perlin</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>Ken Perlin's improved Perlin noise algorithm in Elixir.</p>
-    </td>
-    <td></td>
-  </tr>
-</table>
+| Project | Language | Description |
+|---------|----------|-------------|
+| [`search`](https://github.com/elliotekj/search) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | Fast full-text search for Elixir |
+| [`homie`](https://github.com/elliotekj/homie) | ![Rust](https://img.shields.io/badge/lang-rust-orange) | Dotfiles symlink orchestrator with templates |
+| [`doubly_linked_list`](https://github.com/elliotekj/doubly_linked_list) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | Amortised O(log n) doubly linked list |
+| [`off_broadway_memory`](https://github.com/elliotekj/off_broadway_memory) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | Broadway producer for in-memory buffer |
 
-<table>
-  <tr>
-    <th>Search & Indexing</th>
-    <th>Graphics & Visualization</th>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/search"><code>search</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>⚡ Fast full-text search for Elixir.</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/distil"><code>distil</code></a></p>
-      <img src="https://img.shields.io/badge/lang-rust-orange" />
-      <p>An image derived colour palette generator.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/bm25"><code>bm25</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>BM25 is a ranking algorithm for search.</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/perlin"><code>perlin</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>Ken Perlin's improved Perlin noise algorithm in Elixir.</p>
-    </td>
-  </tr>
-</table>
+#### More Open Source Work
 
-<table>
-  <tr>
-    <th>Dev Tools</th>
-    <th>Web</th>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/dotfiles"><code>dotfiles</code></a></p>
-      <img src="https://img.shields.io/badge/lang-lua-blue" />
-      <p>My dotfiles.</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/thea"><code>thea</code></a></p>
-      <img src="https://img.shields.io/badge/lang-rust-orange" />
-      <p>An in-memory website generator and server.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/fpf"><code>fpf</code></a></p>
-      <img src="https://img.shields.io/badge/lang-go-22D3EF" />
-      <p>Fuzzy prompt finder for Claude Code</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/orbit"><code>orbit</code></a></p>
-      <img src="https://img.shields.io/badge/lang-ruby-red" />
-      <p>A MetaWeblog API Server for Hugo.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/claude-commit.nvim"><code>claude-commit.nvim</code></a></p>
-      <img src="https://img.shields.io/badge/lang-lua-blue" />
-      <p>🤖 AI-powered commit message suggestions using Claude Code</p>
-    </td>
-    <td>
-      <p><a href="https://github.com/elliotekj/clean_unroll"><code>clean_unroll</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elixir-purple" />
-      <p>Unroll URLs and remove their tracking parameters.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/tmux_drawer"><code>tmux_drawer</code></a></p>
-      <img src="https://img.shields.io/badge/lang-sh-lime" />
-      <p>📥 A toggleable drawer for Tmux windows</p>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/vscode-mix-format"><code>vscode-mix-format</code></a></p>
-      <img src="https://img.shields.io/badge/lang-javascript-yellow" />
-      <p>A mix format extension that supports monorepos.</p>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/elliotekj/prr-mode.el"><code>prr-mode.el</code></a></p>
-      <img src="https://img.shields.io/badge/lang-elisp-magenta" />
-      <p>Major mode for editing .prr files in Emacs.</p>
-    </td>
-    <td></td>
-  </tr>
-</table>
+Algorithms & Data: [`bm25`](https://github.com/elliotekj/bm25) · [`leven`](https://github.com/elliotekj/leven) · [`perlin`](https://github.com/elliotekj/perlin) · [`DeltaE`](https://github.com/elliotekj/DeltaE) · [`statsd_metric`](https://github.com/elliotekj/statsd_metric) · [`atomic_writes`](https://github.com/elliotekj/atomic_writes)
 
-[📦 View older projects...](https://elliotekj.com/opensource)
+Dev Tools: [`fpf`](https://github.com/elliotekj/fpf) · [`dotfiles`](https://github.com/elliotekj/dotfiles) · [`claude-commit.nvim`](https://github.com/elliotekj/claude-commit.nvim) · [`tmux_drawer`](https://github.com/elliotekj/tmux_drawer) · [`vscode-mix-format`](https://github.com/elliotekj/vscode-mix-format) · [`prr-mode.el`](https://github.com/elliotekj/prr-mode.el)
+
+Graphics & Web: [`distil`](https://github.com/elliotekj/distil) · [`thea`](https://github.com/elliotekj/thea) · [`orbit`](https://github.com/elliotekj/orbit) · [`clean_unroll`](https://github.com/elliotekj/clean_unroll)
+
+Mobile & Desktop: [`expo-pika-id`](https://github.com/elliotekj/expo-pika-id) · [`screenshots`](https://github.com/elliotekj/screenshots)
+
+📦 [View older projects...](https://elliotekj.com/opensource)
