@@ -13,6 +13,12 @@ I'm a senior software engineer at ▉▉▉▉▉ with over a decade of experien
 | [`doubly_linked_list`](https://github.com/elliotekj/doubly_linked_list) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | ⛓️ Amortised O(log n) doubly linked list |
 | [`off_broadway_memory`](https://github.com/elliotekj/off_broadway_memory) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | 🎭 Broadway producer for in-memory buffer |
 
+#### Featured Projects ⭐
+
+- 🪣 [**Objectively:** Local S3 server for Mac](https://elliotekj.com/objectively)
+- 🎭 [**RPC Mock:** Instant mock RPC endpoints](https://rpcmock.com)
+- 🎙️ [**Fastt:** Native, private, fast Speech-to-Text for Mac](https://fastt.app) (WIP)
+
 #### More Open Source Work
 
 Algorithms & Data: [`bm25`](https://github.com/elliotekj/bm25) · [`leven`](https://github.com/elliotekj/leven) · [`perlin`](https://github.com/elliotekj/perlin) · [`DeltaE`](https://github.com/elliotekj/DeltaE) · [`statsd_metric`](https://github.com/elliotekj/statsd_metric) · [`atomic_writes`](https://github.com/elliotekj/atomic_writes)
