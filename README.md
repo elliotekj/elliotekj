@@ -1,23 +1,22 @@
 ### Hi, I'm Elliot 👋
 
-I'm a senior software engineer at ▉▉▉▉▉ with over a decade of experience building and scaling robust applications in regulated, high-stakes domains. From MVPs to multi-million user platforms, I specialize in high-performance distributed systems primarily in Elixir, thriving in technically demanding environments that push the boundaries of what's possible.
+I’m a software engineer in the defence sector with over a decade of experience building critical systems across fintech and other high-stakes domains. I design high-reliability distributed software, from banking APIs and real-time trading infrastructure to large-scale analytics platforms processing billions of events, and build applied AI systems for automated reverse engineering and software engineering.
 
-[Open Source Work](https://elliotekj.com/opensource) | [About](https://elliotekj.com/about) | [Hire Me](mailto:elliot@elliotkj.com)
+[elliotekj.com](https://elliotekj.com) | [Hire Me](mailto:elliot@elliotkj.com)
 
 #### Featured Open Source ⭐
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| [`search`](https://github.com/elliotekj/search) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | ⚡ Fast full-text search for Elixir |
-| [`homie`](https://github.com/elliotekj/homie) | ![Rust](https://img.shields.io/badge/lang-rust-orange) | 🎻 Dotfiles symlink orchestrator |
 | [`doubly_linked_list`](https://github.com/elliotekj/doubly_linked_list) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | ⛓️ Amortised O(log n) doubly linked list |
 | [`off_broadway_memory`](https://github.com/elliotekj/off_broadway_memory) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | 🎭 Broadway producer for in-memory buffer |
+| [`search`](https://github.com/elliotekj/search) | ![Elixir](https://img.shields.io/badge/lang-elixir-purple) | ⚡ Fast full-text search for Elixir |
+| [`homie`](https://github.com/elliotekj/homie) | ![Rust](https://img.shields.io/badge/lang-rust-orange) | 🎻 Dotfiles symlink orchestrator |
 
 #### Featured Projects ⭐
 
 - 🪣 [**Objectively:** Local S3 server for Mac](https://elliotekj.com/objectively)
 - 🎭 [**RPC Mock:** Instant mock RPC endpoints](https://rpcmock.com)
-- 🎙️ [**Fastt:** Native, private, fast Speech-to-Text for Mac](https://fastt.app) (WIP)
 
 #### More Open Source Work
 
@@ -29,4 +28,4 @@ Graphics & Web: [`distil`](https://github.com/elliotekj/distil) · [`thea`](http
 
 Mobile & Desktop: [`expo-pika-id`](https://github.com/elliotekj/expo-pika-id) · [`screenshots`](https://github.com/elliotekj/screenshots)
 
-📦 [View older projects...](https://elliotekj.com/opensource)
+📦 [View older projects...](https://github.com/elliotekj?tab=repositories)
